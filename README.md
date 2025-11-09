@@ -7,6 +7,7 @@
 ### 👨 About me
 
 - 🇫🇷 I am a French Developer.
+- 📚 I am currently studying at the 42 Paris school.
 - 💻 See my web development work on [my website](https://noahoussier.vercel.app/).
 - 📫 Reach me on my [linkedin profile](https://www.linkedin.com/in/noahoussier)
 
